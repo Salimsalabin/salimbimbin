@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BemTV.br SBT" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="CanaisAbertos",Bem TV SBT (720p) http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:1 tvg-logo=https://i.imgur.com/7nyOxV0.gif" group-title="CanaisAbertos",SBT Interior SP https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="CanaisAbertos",BAND HD http://168.205.87.198:8555/live/1052/123456/19.m3u8
+#EXTINF:1 tvg-logo="https://media3.giphy.com/media/kHU0wCioHegwElohFZ/200w.gif" group-title="CanaisAbertos",Record RS HD https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+#EXTINF:1 tvg-logo="Retrô Cartoon BR" group-title="CanaisAbertos",Retrô Cartoon BR https://stmv1.srvif.com/retrotv/retrotv/chunklist_w822564984.m3u8 
